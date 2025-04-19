@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5a7f216f-2548-4d3e-90b0-f5f96e360b6c",
+    "username": "Gohan",
+    "password": "1234inss",
+    "createdAt": "2025-04-19T12:27:12.510Z",
+    "credits": 21
+  },
+  {
+    "id": "e91290db-69ce-4542-8f1f-2590d3169fb2",
+    "username": "Gohanx",
+    "password": "1234inss",
+    "createdAt": "2025-04-19T13:06:55.472Z",
+    "credits": 19
+  }
+]
