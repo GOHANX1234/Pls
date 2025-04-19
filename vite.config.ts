@@ -22,12 +22,15 @@ export default defineConfig({
     outDir: 'dist',
     sourcemap: false,
     minify: 'terser',
+<<<<<<< HEAD
     terserOptions: {
       compress: {
         drop_console: true,
         drop_debugger: true
       }
     },
+=======
+>>>>>>> accf0f702726880a6fe0d3936dcc876725bab297
     rollupOptions: {
       output: {
         manualChunks: {
